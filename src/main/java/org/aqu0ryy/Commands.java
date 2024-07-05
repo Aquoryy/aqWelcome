@@ -23,6 +23,7 @@ public class Commands implements CommandExecutor, TabCompleter {
             if (args.length != 0) {
                 if (args[0].equalsIgnoreCase("reload")) {
                     Loader.getInst().reloadConfig();
+                    Loader.getInst().saveConfig();
                     ChatUtil.sendMessage(sender, config.getString("commands.reload.success"));
                 } else {
                     ChatUtil.sendMessage(sender, config.getString("messages.no-arg"));
