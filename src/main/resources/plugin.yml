@@ -1,0 +1,12 @@
+name: aqWelcome
+version: '${project.version}'
+main: org.aqu0ryy.Loader
+
+api-version: '1.16'
+
+author: aqu0ryy
+description: Плагин на приветствие.
+
+commands:
+  aqwelcome:
+    aliases: [ welcome, aqw ]

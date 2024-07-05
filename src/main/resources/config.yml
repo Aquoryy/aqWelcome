@@ -1,0 +1,22 @@
+welcome-message:
+  - ''
+  - ' &eДобро пожаловать, &a{player}'
+  - ''
+  - ' &eВы попали на режим &c&lАнархия'
+  - ' &eЖелаем вам приятной игры :3'
+  - ''
+sound: 'ENTITY_PLAYER_LEVELUP 1 1' # Звук Громкость Частота.
+
+hide-stream: true
+
+messages:
+  no-permission: '&cУ вас недостаточно прав.'
+  no-arg: '&cТакого аргумента не существует.'
+  help:
+    - ''
+    - ' &c/{label} reload &7- Перезагрузить конфиги.'
+    - ''
+
+commands:
+  reload:
+    success: '&aКонфиги перезагружены.'
