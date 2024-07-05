@@ -1,6 +1,6 @@
 name: aqWelcome
 version: '${project.version}'
-main: org.aqu0ryy.Loader
+main: org.aqu0ryy.welcome.Loader
 
 api-version: '1.16'
 

@@ -1,4 +1,4 @@
-package org.aqu0ryy.utils;
+package org.aqu0ryy.welcome.utils;
 
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.command.CommandSender;

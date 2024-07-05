@@ -1,6 +1,6 @@
-package org.aqu0ryy.listeners;
+package org.aqu0ryy.welcome.listeners;
 
-import org.aqu0ryy.Loader;
+import org.aqu0ryy.welcome.Loader;
 import org.bukkit.GameRule;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

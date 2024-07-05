@@ -1,7 +1,7 @@
-package org.aqu0ryy;
+package org.aqu0ryy.welcome;
 
-import org.aqu0ryy.listeners.HideListener;
-import org.aqu0ryy.listeners.WelcomeListener;
+import org.aqu0ryy.welcome.listeners.HideListener;
+import org.aqu0ryy.welcome.listeners.WelcomeListener;
 import org.bukkit.Bukkit;
 import org.bukkit.event.HandlerList;
 import org.bukkit.plugin.java.JavaPlugin;

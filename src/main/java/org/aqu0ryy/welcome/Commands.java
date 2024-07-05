@@ -1,6 +1,6 @@
-package org.aqu0ryy;
+package org.aqu0ryy.welcome;
 
-import org.aqu0ryy.utils.ChatUtil;
+import org.aqu0ryy.welcome.utils.ChatUtil;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

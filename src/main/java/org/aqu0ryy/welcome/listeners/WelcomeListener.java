@@ -1,7 +1,7 @@
-package org.aqu0ryy.listeners;
+package org.aqu0ryy.welcome.listeners;
 
-import org.aqu0ryy.Loader;
-import org.aqu0ryy.utils.ChatUtil;
+import org.aqu0ryy.welcome.Loader;
+import org.aqu0ryy.welcome.utils.ChatUtil;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
